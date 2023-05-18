@@ -1,6 +1,6 @@
 
 ![Banner](.github/banner.jpg)
-[!(https://www.metabitglobal.io/images/metabit_logo.svg)](https://codecov.io/gh/0xPolygon/polygon-edge)
+
 ## Polygon Edge
 
 Polygon Edge is a modular and extensible framework for building Ethereum-compatible blockchain networks.
