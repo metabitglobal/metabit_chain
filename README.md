@@ -12,7 +12,7 @@ WARNING: This is a work in progress so architectural changes may happen in the f
 ## Documentation 📝
 
 If you'd like to learn more about the Metabit chain, how it works and how you can use it for your project,
-please check out the **[Metabit Chain Documentation]()**.
+please check out the **[Metabit Chain Documentation](https://github.com/metabitglobal/metabit-docs/blob/main/archive/chain/get-started/installation.md)**.
 
 ---
 
